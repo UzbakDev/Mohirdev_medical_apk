@@ -49,17 +49,16 @@
                 />
 
 
-
             <Button
+                android:id="@+id/nextBtnPerson3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_below="@id/progres_image"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginVertical="30dp"
                 android:backgroundTint="#246BFD"
                 android:text="Next"
-                android:textSize="26sp"
-                android:layout_marginVertical="30dp"
-                android:layout_marginHorizontal="20dp"
-                />
+                android:textSize="26sp" />
 
 
         </RelativeLayout>
